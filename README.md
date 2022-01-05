@@ -12,5 +12,7 @@ Some features:
 
 For a copy of a program, as well, a full description of its logic and scoping, pls, contact me! (luis.alfie@gmail.com)
 
-![Captura de pantalla (32)](https://user-images.githubusercontent.com/40904281/148139312-57606848-78af-439d-b34f-ca3ef0b0b5ab.png)
+![Captura de pantalla (37)](https://user-images.githubusercontent.com/40904281/148258833-4d943a4a-476f-4eda-b2b8-cebca4350ec8.png)
+
+![Captura de pantalla (38)](https://user-images.githubusercontent.com/40904281/148258956-973ee9ce-c8da-40aa-8a16-eae9937ddc29.png)
 
