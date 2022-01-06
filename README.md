@@ -1,7 +1,7 @@
 # A-COBIT-2019-Risk-Assessment-Approach
 A Risk Assessment approach based on COBIT 2019.
 
-Developed using Java, this simple program, uses an own methodology (based on: https://github.com/Lucho-A/A-Risk-Assessment-approach-based-on-Information-Theory) for evaluating and priorizing COBIT 2019 processes. It intends to be a tool for, mainly, evaluate the engagements to be included in an Annual IT Audit Plan.
+Developed using Java, this simple program, uses an own methodology (based on: https://github.com/Lucho-A/A-Risk-Assessment-approach-based-on-Information-Theory) for evaluating and priorizing COBIT 2019 processes. It intends to be a tool for, mainly, evaluating the engagements to be included in an Annual IT Audit Plan.
 
 Some features:
 - Because the concept of probability is so much align with controls instead of processes, the "inherent" risk associated is only in line with the different impacts of the processes, this is: information impact, financial/economical impact, and others (compliance impact, for example).
