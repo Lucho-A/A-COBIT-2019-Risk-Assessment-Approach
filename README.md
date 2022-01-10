@@ -10,13 +10,14 @@ Some features:
 
 For a copy of a program, as well, a full description of its logic and scoping, pls, contact me! (luis.alfie@gmail.com)
 
-![image](https://user-images.githubusercontent.com/40904281/148672147-12ff4512-75f9-4a05-bba7-9dae37333a30.png)
+![image](https://user-images.githubusercontent.com/40904281/148715797-abba87c0-58a5-40e0-a78c-88018cd270fc.png)
 
-![image](https://user-images.githubusercontent.com/40904281/148672156-29c8d54e-58bd-4a44-969f-686ac25efe77.png)
+![image](https://user-images.githubusercontent.com/40904281/148715838-f18354d1-7109-48b9-8f38-1ea1ca6537aa.png)
 
-![image](https://user-images.githubusercontent.com/40904281/148672160-71d91d00-9150-40cb-92f5-43fea77add82.png)
+![image](https://user-images.githubusercontent.com/40904281/148715864-b84b7be0-4b5c-4a92-b1f5-1d3e68e43080.png)
 
-![image](https://user-images.githubusercontent.com/40904281/148672178-ceb48ea7-c99d-4c2d-9c55-b62d97550d02.png)
+![image](https://user-images.githubusercontent.com/40904281/148715878-f1ea9bb7-a9a3-4bec-8007-cf5df211d66f.png)
+
 
 
 
