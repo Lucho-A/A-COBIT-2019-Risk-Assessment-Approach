@@ -20,7 +20,7 @@ For a copy of a program, as well, a full description of its logic and scoping, p
 
 ![image](https://user-images.githubusercontent.com/40904281/148883341-c01227c0-cd8e-4fac-9912-1d8426310cca.png)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/40904281/148883437-ddfd453f-cac1-46d6-ac97-5550204dd95f.png)
 
 
 
