@@ -14,7 +14,7 @@ For a copy of a program, as well, a full description of its logic and scoping, p
 
 ![image](https://user-images.githubusercontent.com/40904281/148883036-aeeec154-6ec3-404e-9efe-4b7caa0c1c5d.png)
 
-![image](https://user-images.githubusercontent.com/40904281/148883064-eb3b9a41-6936-4d82-83cf-270e9f2c124a.png)
+![image](https://user-images.githubusercontent.com/40904281/148977683-61df2ed5-c6c8-4013-a463-b75b469ece40.png)
 
 ![image](https://user-images.githubusercontent.com/40904281/148883098-4bd27126-0ab2-4661-be47-305317ce7c86.png)
 
