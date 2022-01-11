@@ -10,6 +10,8 @@ Some features:
 
 For a copy of a program, as well, a full description of its logic and scoping, pls, contact me! (luis.alfie@gmail.com)
 
+![image](https://user-images.githubusercontent.com/40904281/148976442-dcf89d72-b13d-42b7-9cb0-e5d44f45b17b.png)
+
 ![image](https://user-images.githubusercontent.com/40904281/148883036-aeeec154-6ec3-404e-9efe-4b7caa0c1c5d.png)
 
 ![image](https://user-images.githubusercontent.com/40904281/148883064-eb3b9a41-6936-4d82-83cf-270e9f2c124a.png)
