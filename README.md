@@ -10,17 +10,21 @@ Some features:
 
 For a copy of a program, as well, a full description of its logic and scoping, pls, contact me! (luis.alfie@gmail.com)
 
-![image](https://user-images.githubusercontent.com/40904281/148715797-abba87c0-58a5-40e0-a78c-88018cd270fc.png)
+![image](https://user-images.githubusercontent.com/40904281/148883036-aeeec154-6ec3-404e-9efe-4b7caa0c1c5d.png)
 
-![image](https://user-images.githubusercontent.com/40904281/148715838-f18354d1-7109-48b9-8f38-1ea1ca6537aa.png)
+![image](https://user-images.githubusercontent.com/40904281/148883064-eb3b9a41-6936-4d82-83cf-270e9f2c124a.png)
 
-![image](https://user-images.githubusercontent.com/40904281/148715864-b84b7be0-4b5c-4a92-b1f5-1d3e68e43080.png)
+![image](https://user-images.githubusercontent.com/40904281/148883098-4bd27126-0ab2-4661-be47-305317ce7c86.png)
 
-![image](https://user-images.githubusercontent.com/40904281/148715878-f1ea9bb7-a9a3-4bec-8007-cf5df211d66f.png)
+![image](https://user-images.githubusercontent.com/40904281/148883142-a6c3dbc8-163f-454a-8938-cd60f226a8c1.png)
 
-![image](https://user-images.githubusercontent.com/40904281/148876549-a1f10925-5d2e-450d-a8b0-da7c20a2390f.png)
+![image](https://user-images.githubusercontent.com/40904281/148883341-c01227c0-cd8e-4fac-9912-1d8426310cca.png)
 
-![image](https://user-images.githubusercontent.com/40904281/148876581-1629c363-bc48-40c0-8db0-3ae23ad59c4a.png)
+![Uploading image.png…]()
+
+
+
+
 
 
 
