@@ -10,19 +10,26 @@ Some features:
 
 For a copy of a program, as well, a full description of its logic and scoping, pls, contact me! (luis.alfie@gmail.com)
 
-![image](https://user-images.githubusercontent.com/40904281/148976442-dcf89d72-b13d-42b7-9cb0-e5d44f45b17b.png)
+![image](https://user-images.githubusercontent.com/40904281/149053255-35c88746-5628-4526-80d7-e216679ad86f.png)
 
-![image](https://user-images.githubusercontent.com/40904281/148883036-aeeec154-6ec3-404e-9efe-4b7caa0c1c5d.png)
+![javaw_H99XOjK61d](https://user-images.githubusercontent.com/40904281/149053308-615608c6-48c0-4a07-a557-037fdcf919f1.png)
 
-![image](https://user-images.githubusercontent.com/40904281/148977683-61df2ed5-c6c8-4013-a463-b75b469ece40.png)
+![javaw_xwi3ZiQ8jl](https://user-images.githubusercontent.com/40904281/149053363-89b8c58b-ea46-482f-a1ca-001d1447efee.png)
 
-![image](https://user-images.githubusercontent.com/40904281/148883098-4bd27126-0ab2-4661-be47-305317ce7c86.png)
+![javaw_xvQUDnZZmZ](https://user-images.githubusercontent.com/40904281/149053415-edb90768-55df-4c70-a82b-a42c113edfb3.png)
 
-![image](https://user-images.githubusercontent.com/40904281/148883142-a6c3dbc8-163f-454a-8938-cd60f226a8c1.png)
+![javaw_HMIG1lKDL6](https://user-images.githubusercontent.com/40904281/149053444-1cdffb6c-e51b-403e-a79a-718c5b0f2043.png)
 
-![image](https://user-images.githubusercontent.com/40904281/148883341-c01227c0-cd8e-4fac-9912-1d8426310cca.png)
+![javaw_cZWJENGbGR](https://user-images.githubusercontent.com/40904281/149053489-77d870a7-748b-4e59-b80c-eb236edf3298.png)
 
-![image](https://user-images.githubusercontent.com/40904281/148883437-ddfd453f-cac1-46d6-ac97-5550204dd95f.png)
+![javaw_WdVO2F9jIQ](https://user-images.githubusercontent.com/40904281/149053526-eb8aa718-83a1-47c0-b5c1-8b67eeec4c27.png)
+
+
+
+
+
+
+
 
 
 
