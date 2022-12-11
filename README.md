@@ -10,7 +10,7 @@ Developed using Java, the program, uses an own methodology (based on [this paper
 - It takes into consideration not only the result of the latest evaluation (in order to evaluate the residual risk) but, also, the aging (the elapsed period) between the date of the latest revision and the current day.
 - It defines a value (risk exposure) as the cocient between the residual risk and the impact expressed in bits/impact (this is, how much information I have per impact unit. Less value, less information I have and, in consequence, these processes could be considered to be reviewed with highest priority).
 
-It's a client-server progam but only for performing login (mainly, for web-service security and performance issues), and for serving the impact and risk exposure values. The program keep locally the risk map information, and allows export the information in csv format.
+It's a client-server progam (using SSL) but only for performing login (mainly, for web-service security and performance issues), and for serving the impact and risk exposure values. The program keep locally the risk map information, and allows export the information in csv format.
 
 ### Usage
 1) Downloading the zip file.
