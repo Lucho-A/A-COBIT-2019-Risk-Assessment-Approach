@@ -1,12 +1,22 @@
 # A-COBIT-2019-Risk-Assessment-Approach
 A Risk Assessment approach based on COBIT (2019).
 
-Developed using Java, this simple program, uses an own methodology (based on: https://github.com/Lucho-A/A-Risk-Assessment-approach-based-on-Information-Theory) for evaluating and priorizing COBIT (2019) processes/objectives. It intends to be a tool for, mainly, defining the engagements to be included in an Annual IT Audit Plan.
+Developed using Java, this simple program, uses an own methodology (based on: https://github.com/Lucho-A/A-Risk-Assessment-approach-based-on-Information-Theory) for evaluating and priorizing COBIT (2019) processes/objectives. It intends to be a tool for, among others, defining the engagements to be included in an Annual IT Audit Plan.
 
 Some features:
 - Because the concept of probability is so much align with controls instead of processes, the "inherent" risk associated is only in line with the different impacts of the processes, this is: information impact, financial/economical impact, and others (compliance impact, for example).
 - It takes into consideration not only the result of the latest evaluation (in order to evaluate the residual risk) but, also, the aging (the elapsed period) between the date of the latest revision and the current day.
 - It defines a value (risk exposure) as the cocient between the residual risk and the impact expressed in bits/impact (this is, how much information I have per impact unit. Less value, less information I have and, in consequence, these processes could be considered to be reviewed and included in the next Annual IT Audit Plan).
+
+It's a client-server progam but only for login (mainly, for web-service security and performance issues), and for serving the impact and risk exposure values. The program keep locally the risk map information.
+
+Usage:
+
+1) Downloading the zip file.
+2) Unzip it wherever you want.
+3) Execute the .bat file.
+
+Requirement note: you must have java running and into the "PATH" variable. The program was tested with Java 17 Eclipse Temurin. You can downloaded from here<https://adoptium.net/es/>.
 
 For a **free** copy of a program, as well, a full description of its logic and scoping, pls, contact me! (luis.alfie@gmail.com)
 
