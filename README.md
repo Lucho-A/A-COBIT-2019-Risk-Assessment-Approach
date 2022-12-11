@@ -1,24 +1,26 @@
 # A-COBIT-2019-Risk-Assessment-Approach
 A Risk Assessment approach based on COBIT (2019).
 
-Developed using Java, this simple program, uses an own methodology (based on: https://github.com/Lucho-A/A-Risk-Assessment-approach-based-on-Information-Theory) for evaluating and priorizing COBIT (2019) processes/objectives. It intends to be a tool for, among others, defining the engagements to be included in an Annual IT Audit Plan.
+Developed using Java, the program, uses an own methodology (based on [this paper](https://github.com/Lucho-A/A-Risk-Assessment-approach-based-on-Information-Theory) for evaluating and priorizing COBIT (2019) processes/objectives.
 
 Some features:
 - Because the concept of probability is so much align with controls instead of processes, the "inherent" risk associated is only in line with the different impacts of the processes, this is: information impact, financial/economical impact, and others (compliance impact, for example).
 - It takes into consideration not only the result of the latest evaluation (in order to evaluate the residual risk) but, also, the aging (the elapsed period) between the date of the latest revision and the current day.
-- It defines a value (risk exposure) as the cocient between the residual risk and the impact expressed in bits/impact (this is, how much information I have per impact unit. Less value, less information I have and, in consequence, these processes could be considered to be reviewed and included in the next Annual IT Audit Plan).
+- It defines a value (risk exposure) as the cocient between the residual risk and the impact expressed in bits/impact (this is, how much information I have per impact unit. Less value, less information I have and, in consequence, these processes could be considered to be reviewed with highest priority).
 
-It's a client-server progam but only for login (mainly, for web-service security and performance issues), and for serving the impact and risk exposure values. The program keep locally the risk map information.
+It's a client-server progam but only for performing login (mainly, for web-service security and performance issues), and for serving the impact and risk exposure values. The program keep locally the risk map information, and allows export the information in csv format.
 
-Usage:
-
+### Usage
 1) Downloading the zip file.
 2) Unzip it wherever you want.
 3) Execute the .bat file.
 
-Requirement note: you must have java running and into the "PATH" variable. The program was tested with Java 17 Eclipse Temurin. You can downloaded from here<https://adoptium.net/es/>.
+Requirement note: for sure, you must have java installed and into the "PATH" variable (if not, you can edit the .bat for specifying the executable location). The program was tested with Java 17 Eclipse Temurin. You can download it from [here](https://adoptium.net/es/). Plsss, see release descriptions for particular issues. 
 
-For a **free** copy of a program, as well, a full description of its logic and scoping, pls, contact me! (luis.alfie@gmail.com)
+### Feedback
+I find the appraoch interesting, at least, original! hahah I'm not sure whether it will have organizational impact, but is, in first place, an intellectual and theorical approach. So, any comment, suggestion, or any kind of feedback, it will be appreciated (luis.alfie@gmail.com).
+
+Enjoy!
 
 ![image](https://user-images.githubusercontent.com/40904281/149053255-35c88746-5628-4526-80d7-e216679ad86f.png)
 
