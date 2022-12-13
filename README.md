@@ -24,8 +24,6 @@ Enjoy!
 
 ![image](https://user-images.githubusercontent.com/40904281/149053255-35c88746-5628-4526-80d7-e216679ad86f.png)
 
-![javaw_H99XOjK61d](https://user-images.githubusercontent.com/40904281/149053308-615608c6-48c0-4a07-a557-037fdcf919f1.png)
-
 ![javaw_xwi3ZiQ8jl](https://user-images.githubusercontent.com/40904281/149053363-89b8c58b-ea46-482f-a1ca-001d1447efee.png)
 
 ![javaw_xvQUDnZZmZ](https://user-images.githubusercontent.com/40904281/149053415-edb90768-55df-4c70-a82b-a42c113edfb3.png)
