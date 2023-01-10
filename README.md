@@ -11,7 +11,7 @@ Developed using Java, the program, uses an own methodology (based on [this paper
 It's a client-server program (using SSL) but only for performing login (mainly, for web-service security and performance issues), and for serving the impact and risk exposure values. The program keeps locally the risk map information, and allows export the information in csv format.
 
 ### Usage
-1) Downloading the zip file.
+1) [Download](https://github.com/Lucho-A/A-COBIT-2019-Risk-Assessment-Approach/releases/latest) the zip file.
 2) Unzip it wherever you want.
 3) Execute the .bat file.
 
