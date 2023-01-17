@@ -23,7 +23,7 @@ I find the approach interesting, at least, original! hahah I'm not sure whether 
 Enjoy!
 <p align="center">
 
-<img height="400" src="https://user-images.githubusercontent.com/40904281/211438121-02794fdd-26ad-4a27-b808-c6a82b2158cc.png">
+<img height="300" src="https://user-images.githubusercontent.com/40904281/211438121-02794fdd-26ad-4a27-b808-c6a82b2158cc.png">
 
 ![image](https://user-images.githubusercontent.com/40904281/149053255-35c88746-5628-4526-80d7-e216679ad86f.png)
 
