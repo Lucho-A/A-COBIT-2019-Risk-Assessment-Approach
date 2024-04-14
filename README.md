@@ -5,10 +5,12 @@ A Risk Assessment software based on COBIT (2019).
 
 ### Some features:
 - Because the concept of probability is so much aligned with controls instead of processes, the "inherent" risk associated is only in line with the different impacts of the processes, this is: information impact, financial/economic impact, and others (compliance impact, for example).
-- It takes into consideration not only the result of the latest evaluation (in order to evaluate the residual risk) but, also, the aging (the elapsed period) between the date of the latest revision and the current day.
+- It takes into consideration not only the result of the latest evaluation (in order to evaluate the residual risk) but, also, the aging (the elapsed period) between the date of the latest revision and the current day. <sup>[1](#footnote1)</sup>
 - It defines a value (risk exposure) as the quotient between the residual risk and the impact expressed in bits/impact (this is, how much information I have per impact unit. Less value, less information I have and, in consequence, these processes could be considered to be reviewed with highest priority).
 
 It's a client-server program (using SSL) but only for performing login (mainly, for web-service security and performance issues), and for serving the impact and risk exposure values. The program keeps locally the risk map information, and allows export the information in csv format.
+
+##### <sup><a name="footnote1">1</a></sup>: Asumming that the amortization of the engagements is 5 (five) years.
 
 ### Usage
 ~~1) [Download](https://github.com/Lucho-A/A-COBIT-2019-Risk-Assessment-Approach/releases/latest) the zip file. <br>
