@@ -1,4 +1,4 @@
-# A-COBIT-2019-Risk-Assessment-Approach
+_(Under development/revision)_ # A-COBIT-2019-Risk-Assessment-Approach
 A Risk Assessment software based on COBIT (2019).
 
 Developed using Java, the program, uses an own methodology (based on [this paper](https://github.com/Lucho-A/A-Risk-Assessment-approach-based-on-Information-Theory)) for evaluating and prioritizing COBIT (2019) processes/objectives.
@@ -33,9 +33,6 @@ Enjoy!
 
 ![javaw_HMIG1lKDL6](https://user-images.githubusercontent.com/40904281/149053444-1cdffb6c-e51b-403e-a79a-718c5b0f2043.png)
 
-![javaw_cZWJENGbGR](https://user-images.githubusercontent.com/40904281/149053489-77d870a7-748b-4e59-b80c-eb236edf3298.png)
-
-![javaw_WdVO2F9jIQ](https://user-images.githubusercontent.com/40904281/149053526-eb8aa718-83a1-47c0-b5c1-8b67eeec4c27.png)
 </p>
 
 
