@@ -11,11 +11,12 @@ A Risk Assessment software based on COBIT (2019).
 It's a client-server program (using SSL) but only for performing login (mainly, for web-service security and performance issues), and for serving the impact and risk exposure values. The program keeps locally the risk map information, and allows export the information in csv format.
 
 ### Usage
-1) [Download](https://github.com/Lucho-A/A-COBIT-2019-Risk-Assessment-Approach/releases/latest) the zip file.
-2) Unzip it wherever you want.
-3) Execute the .bat file.
+~~1) [Download](https://github.com/Lucho-A/A-COBIT-2019-Risk-Assessment-Approach/releases/latest) the zip file. <br>
+2) Unzip it wherever you want. <br>
+3) Execute the .bat file. <br> <br>
+Requirement note: for sure, you must have java installed and into the "PATH" variable (if not, you can edit the .bat for specifying the executable location). The program was tested with Java 17 Eclipse Temurin. You can download it from [here](https://adoptium.net/es/). Plsss, see release descriptions for particular issues.~~
 
-Requirement note: for sure, you must have java installed and into the "PATH" variable (if not, you can edit the .bat for specifying the executable location). The program was tested with Java 17 Eclipse Temurin. You can download it from [here](https://adoptium.net/es/). Plsss, see release descriptions for particular issues. 
+**20240414 Rev. note:** I'm evaluating the approach. Actually i'm working on an excel testing file that I estimate uploading soon.
 
 ### Feedback
 I find the approach interesting, at least, original! hahah I'm not sure whether it will have organizational impact, but is, in first place, an intellectual and theorical approach. So, any comment, bugs or crashes issues, suggestion, or any kind of feedback, it will be appreciated (luis.alfie@gmail.com).
