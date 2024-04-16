@@ -3,7 +3,7 @@ A Risk Assessment software based on COBIT (2019).
 
 **_(Under development/revision)_** Developed using Java, the program, uses an own methodology (based on [this paper](https://github.com/Lucho-A/A-Risk-Assessment-approach-based-on-Information-Theory)) for evaluating and prioritizing COBIT (2019) processes/objectives.
 
-**20240415 Rev. note:** I'm evaluating the approach ([uploaded](https://github.com/Lucho-A/A-COBIT-2019-Risk-Assessment-Approach/blob/master/rm-cobit2019.xlsm), the file I'm using for testing). The idea is eventually incorporate the practices, activities, and the chance to incorporate control where all this is going to be quite more interesting. In fact, the idea came up for controls, but in order to evaluate the methodology, I just prefered a Top Down approach. Anyway, let's see...
+**20240415 Rev. note:** I'm evaluating the approach ([uploaded](https://github.com/Lucho-A/A-COBIT-2019-Risk-Assessment-Approach/blob/master/rm-cobit2019.xlsm), the file I'm using for testing). The idea is eventually incorporate the practices, activities, and the chance to incorporate controls where all this is going to be quite more interesting. In fact, the idea came up for controls, but in order to evaluate the methodology, I just prefered a Top Down approach. Anyway, let's see...
 
 ### Some features:
 - Because the concept of probability is so much aligned with controls instead of processes, the "inherent" risk associated is only in line with the different impacts of the processes, this is: information impact, financial/economic impact, and others (compliance impact, for example).
